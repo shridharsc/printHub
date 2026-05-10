@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/printHub/static/css/main.bc5623c2.css",
+    "main.js": "/printHub/static/js/main.0c824a19.js",
+    "static/js/453.b5ee7e6f.chunk.js": "/printHub/static/js/453.b5ee7e6f.chunk.js",
+    "index.html": "/printHub/index.html",
+    "main.bc5623c2.css.map": "/printHub/static/css/main.bc5623c2.css.map",
+    "main.0c824a19.js.map": "/printHub/static/js/main.0c824a19.js.map",
+    "453.b5ee7e6f.chunk.js.map": "/printHub/static/js/453.b5ee7e6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc5623c2.css",
+    "static/js/main.0c824a19.js"
+  ]
+}
